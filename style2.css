@@ -90,7 +90,7 @@ body{background-color: black;}
 }
 
 
-.flip-card-back {
+.flip-card-front {
   transform: rotateY(180deg);
 }
 
